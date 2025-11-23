@@ -1,0 +1,3 @@
+#define CONSOLE_ENABLE
+CONSOLE_ENABLE = yes
+SERIAL_DRIVER = vendor
